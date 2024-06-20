@@ -8,4 +8,4 @@ HOST='0.0.0.0'
 
 cd /R
 
-Rscript -e "shiny::runApp('./', port=$PORT, host='$HOST')"
+Rscript -e "shiny::runApp('./safetyGraphicsApp.R', port=$PORT, host='$HOST')"
