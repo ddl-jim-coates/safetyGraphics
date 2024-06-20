@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the port you want to use
-PORT=3838
+PORT=8888
 
 # Define the host you want to use
 HOST='0.0.0.0'
