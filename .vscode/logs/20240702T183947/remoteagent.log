@@ -1,0 +1,17 @@
+2024-07-02 18:39:47.694 [info] 
+
+
+
+
+2024-07-02 18:39:47.694 [info] Extension host agent started.
+2024-07-02 18:39:50.520 [info] [127.0.0.1][29a032d5][ManagementConnection] New connection established.
+2024-07-02 18:39:52.196 [info] [127.0.0.1][726ca33c][ExtensionHostConnection] New connection established.
+2024-07-02 18:39:52.278 [info] [127.0.0.1][726ca33c][ExtensionHostConnection] <349> Launched Extension Host Process.
+2024-07-02 18:39:56.607 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-07-02 18:39:57.554 [info] Installing extension: ms-toolsai.jupyter-renderers
+2024-07-02 18:40:02.054 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2024-07-02 18:40:02.424 [info] Extracted extension to file:///home/ubuntu/.local/share/code-server/extensions/ms-toolsai.jupyter-renderers-1.0.18-universal: ms-toolsai.jupyter-renderers
+2024-07-02 18:40:02.469 [info] Renamed to /home/ubuntu/.local/share/code-server/extensions/ms-toolsai.jupyter-renderers-1.0.18-universal
+2024-07-02 18:40:02.471 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2024-07-02 18:40:02.475 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2024-07-02 18:40:02.478 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.17-universal
